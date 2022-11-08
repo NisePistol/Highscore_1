@@ -1,0 +1,10 @@
+@startuml
+!theme plain
+skinparam classAttributeIconSize 0
+hide circle
+class SpelarePoäng {
+    + namn : string <<get>> <<set>>
+    + poeng : int <<get>> <<set>>
+    + datum : DateTime <<get>> <<set>>
+}
+@enduml

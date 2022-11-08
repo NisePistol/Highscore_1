@@ -1,0 +1,11 @@
+@startuml
+class SpelarePoäng {
+    + namn : string <<get>> <<set>>
+    + poeng : int <<get>> <<set>>
+    + datum : DateTime <<get>> <<set>>
+}
+class Program {
+    {static} Main(args:string[]) : void
+    {static} SkapaOchSkrivUt() : void
+}
+@enduml

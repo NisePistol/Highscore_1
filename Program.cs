@@ -31,7 +31,6 @@ namespace Highscore
             }
         }
         
-        
         static void SkapaOchSkrivUt()
         {
             // Skapa lista av spelare
