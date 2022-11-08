@@ -1,0 +1,16 @@
+C:\Users\herreraalgotsson.ad\github-classroom\TE20C-spel-prog-2\OOP\Highscore_1\bin\Debug\net5.0\Highscore_1.exe
+C:\Users\herreraalgotsson.ad\github-classroom\TE20C-spel-prog-2\OOP\Highscore_1\bin\Debug\net5.0\Highscore_1.deps.json
+C:\Users\herreraalgotsson.ad\github-classroom\TE20C-spel-prog-2\OOP\Highscore_1\bin\Debug\net5.0\Highscore_1.runtimeconfig.json
+C:\Users\herreraalgotsson.ad\github-classroom\TE20C-spel-prog-2\OOP\Highscore_1\bin\Debug\net5.0\Highscore_1.runtimeconfig.dev.json
+C:\Users\herreraalgotsson.ad\github-classroom\TE20C-spel-prog-2\OOP\Highscore_1\bin\Debug\net5.0\Highscore_1.dll
+C:\Users\herreraalgotsson.ad\github-classroom\TE20C-spel-prog-2\OOP\Highscore_1\bin\Debug\net5.0\ref\Highscore_1.dll
+C:\Users\herreraalgotsson.ad\github-classroom\TE20C-spel-prog-2\OOP\Highscore_1\bin\Debug\net5.0\Highscore_1.pdb
+C:\Users\herreraalgotsson.ad\github-classroom\TE20C-spel-prog-2\OOP\Highscore_1\obj\Debug\net5.0\Highscore_1.csproj.AssemblyReference.cache
+C:\Users\herreraalgotsson.ad\github-classroom\TE20C-spel-prog-2\OOP\Highscore_1\obj\Debug\net5.0\Highscore_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\herreraalgotsson.ad\github-classroom\TE20C-spel-prog-2\OOP\Highscore_1\obj\Debug\net5.0\Highscore_1.AssemblyInfoInputs.cache
+C:\Users\herreraalgotsson.ad\github-classroom\TE20C-spel-prog-2\OOP\Highscore_1\obj\Debug\net5.0\Highscore_1.AssemblyInfo.cs
+C:\Users\herreraalgotsson.ad\github-classroom\TE20C-spel-prog-2\OOP\Highscore_1\obj\Debug\net5.0\Highscore_1.csproj.CoreCompileInputs.cache
+C:\Users\herreraalgotsson.ad\github-classroom\TE20C-spel-prog-2\OOP\Highscore_1\obj\Debug\net5.0\Highscore_1.dll
+C:\Users\herreraalgotsson.ad\github-classroom\TE20C-spel-prog-2\OOP\Highscore_1\obj\Debug\net5.0\ref\Highscore_1.dll
+C:\Users\herreraalgotsson.ad\github-classroom\TE20C-spel-prog-2\OOP\Highscore_1\obj\Debug\net5.0\Highscore_1.pdb
+C:\Users\herreraalgotsson.ad\github-classroom\TE20C-spel-prog-2\OOP\Highscore_1\obj\Debug\net5.0\Highscore_1.genruntimeconfig.cache
